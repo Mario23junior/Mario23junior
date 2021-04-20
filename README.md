@@ -1,16 +1,29 @@
-### Hi there 👋
 
-<!--
-**Mario23junior/Mario23junior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a align="center" href="https://github.com/anuraghazra/convoychat">
 
-Here are some ideas to get you started:
+<h2><img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="40">Olá, sou Mário júnior👨🏻‍💻</h3></h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+Sou facinado pelo desenvolvimento de sistemas em Java, JSP, JPA, Hibernate, MySQL
+e Spring Framework são umas das gamas de funcionalidade que utilizo em seu desenvolvimento com algumas realização de dimensionamento de codificação de
+aplicativos RESTful.
+
+<h3>🛠 Linguagens e Ferramentas</h3>
+
+ <img alt="GIF" src="https://www.flaticon.com/svg/vstatic/svg/226/226777.svg?token=exp=1618908465~hmac=19e57781c9699cbf17fc972ad10c22e3" align="left" height="30" width="30"/>
+ 
+ <img alt="GIF" src="https://devkico.itexto.com.br/wp-content/uploads/2014/08/spring-boot-project-logo.png" align="left" height="30" width="30"/>
+ <img alt="GIF" src="https://hibernate.org/images/hibernate_icon_whitebkg.svg" align="left" height="30" width="30"/>
+ <img alt="GIF" src="https://marcas-logos.net/wp-content/uploads/2020/11/MySQL-logo.png" align="left" height="30" width="30"/>
+ <img alt="GIF" src="https://cdn.worldvectorlogo.com/logos/eclipse-11.svg" align="left" height="30" width="30"/>
+  <img alt="GIF" src="https://camo.githubusercontent.com/4a7ed2e11e76aecf9a7ed4871107d7fe2f2d1ddd15b03f935f9aa8980d919cdb/68747470733a2f2f6b6f656e69672d6d656469612e72617977656e6465726c6963682e636f6d2f75706c6f6164732f323031352f30372f4665617475726564342e706e67" align="left" height="30" width="30"/>
+ <img alt="GIF" src="https://img.icons8.com/color/452/linux-mint.png" align="left" height="30" width="30"/>
+ <img alt="GIF" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" align="left" height="30" width="30"/><br><br><br>
+ 
+ <img alt="GIF" src="https://img.17qq.com/images/bjeidjgbgbz.jpeg" width="500"/>
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+<br>
+
+  </a>
