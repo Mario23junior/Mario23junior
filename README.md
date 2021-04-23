@@ -10,7 +10,7 @@ aplicativos RESTful.
 
 <h3>🛠 Linguagens e Ferramentas</h3>
 
- <img alt=" " src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png" align="left" height="30" width="30"/>
+ <img alt=" " src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png" align="left" height="40" width="40"/>
  <img alt="GIF" src="https://devkico.itexto.com.br/wp-content/uploads/2014/08/spring-boot-project-logo.png" align="left" height="30" width="30"/>
  <img alt="IF" src="https://hibernate.org/images/hibernate_icon_whitebkg.svg" align="left" height="30" width="30"/>
  <img alt="GIF" src="https://marcas-logos.net/wp-content/uploads/2020/11/MySQL-logo.png" align="left" height="30" width="30"/>
