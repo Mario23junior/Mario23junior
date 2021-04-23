@@ -10,10 +10,9 @@ aplicativos RESTful.
 
 <h3>🛠 Linguagens e Ferramentas</h3>
 
- <img alt="GIF" src="https://www.flaticon.com/svg/vstatic/svg/226/226777.svg?token=exp=1618908465~hmac=19e57781c9699cbf17fc972ad10c22e3" align="left" height="30" width="30"/>
- 
+ <img alt=" " src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png" align="left" height="30" width="30"/>
  <img alt="GIF" src="https://devkico.itexto.com.br/wp-content/uploads/2014/08/spring-boot-project-logo.png" align="left" height="30" width="30"/>
- <img alt="GIF" src="https://hibernate.org/images/hibernate_icon_whitebkg.svg" align="left" height="30" width="30"/>
+ <img alt="IF" src="https://hibernate.org/images/hibernate_icon_whitebkg.svg" align="left" height="30" width="30"/>
  <img alt="GIF" src="https://marcas-logos.net/wp-content/uploads/2020/11/MySQL-logo.png" align="left" height="30" width="30"/>
  <img alt="GIF" src="https://cdn.worldvectorlogo.com/logos/eclipse-11.svg" align="left" height="30" width="30"/>
   <img alt="GIF" src="https://camo.githubusercontent.com/4a7ed2e11e76aecf9a7ed4871107d7fe2f2d1ddd15b03f935f9aa8980d919cdb/68747470733a2f2f6b6f656e69672d6d656469612e72617977656e6465726c6963682e636f6d2f75706c6f6164732f323031352f30372f4665617475726564342e706e67" align="left" height="30" width="30"/>
