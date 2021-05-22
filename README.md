@@ -20,7 +20,7 @@ aplicativos RESTful.
  <img alt="GIF" src="https://img.icons8.com/color/452/linux-mint.png" align="left" height="30" width="30"/>
  <img alt="GIF" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" align="left" height="30" width="30"/><br><br><br>
  
- <img alt="GIF" src="https://img.17qq.com/images/bjeidjgbgbz.jpeg" width="500"/>
+ <img alt="GIF" src="/programador.gif" width="700"/>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mario23Junior&show_icons=true&theme=radical)
