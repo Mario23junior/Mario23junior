@@ -1,7 +1,7 @@
 
 <a align="center" href="https://github.com/anuraghazra/convoychat">
 
-<h2><img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="40">Olá, sou Mário júnio</h3></h2>
+<h2><img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="40">Olá, sou Mário júnior</h3></h2>
 
  
 Sou facinado pelo desenvolvimento de sistemas em Java, JSP, JPA, Hibernate, MySQL
