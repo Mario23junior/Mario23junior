@@ -24,7 +24,7 @@ aplicativos RESTful.
  
  <div>
   <a href="https://github.com/Mario23junior">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mario23junior&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="280em" src="https://github-readme-stats.vercel.app/api?username=Mario23junior&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 
