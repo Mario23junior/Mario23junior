@@ -21,6 +21,11 @@ aplicativos RESTful.
  <img alt="GIF" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" align="left" height="30" width="30"/><br><br><br>
  
  <img alt="GIF" src="/programador.gif" width="700"/>
+ 
+ <div>
+  <a href="https://github.com/Mario23junior">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mario23junior&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 
 <br>
