@@ -23,7 +23,6 @@ aplicativos RESTful.
  <img alt="GIF" src="/programador.gif" width="700"/>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mario23Junior&show_icons=true&theme=radical)
 <br>
 
   </a>
