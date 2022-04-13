@@ -25,9 +25,9 @@ aplicativos RESTful.
   <br>
   <img align="center" alt="ewe-VScode" height="36" width="30" src="icons/Tux.png">
   <img align="center" alt="postgresql-logo" height="60" width="50" src="icons/postgresql-logo.png">
-  <img align="center" alt="postman" height="50" width="110" src="icons/postman.png">
+  <img align="center" alt="postman" height="50" width="110" src="icons/ostman.png">
   <img align="center" alt="security" height="30" width="30" src="icons/security.png">
-  <img align="center" alt="swagger" height="30" width="123" src="icons/swagger.png">
+  <img align="center" alt="swagger" height="30" width="123" src="icons/wagger.png">
 
   </br>
   </br
