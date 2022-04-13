@@ -17,7 +17,7 @@ aplicativos RESTful.
   <img align="center" alt="mysql" height="30" width="40" src="icons/MySQL-logo.png"/>
   <img align="center" alt="eclipse" height="30" width="40" src="icons/eclipse-11.svg">
   <img align="center" alt="hibernate" height="30" width="40" src="icons/hibernate.svg">
-  <img align="center" alt="java" height="30" width="40" src="icons/java.webp"/>
+  <img align="center" alt="java" height="45" width="49" src="icons/java.webp"/>
   <img align="center" alt="linux-mint" height="30" width="30" src="icons/linux-mint.png"/>
   <img align="center" alt="spring-boot" height="30" width="30" src="icons/spring-boot.png"/>
   <img align="center" alt="TravisCI" height="30" width="30" src="icons/travis.png"/>
