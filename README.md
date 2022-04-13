@@ -28,6 +28,8 @@ aplicativos RESTful.
   <img align="center" alt="postman" height="30" width="30" src="icons/postman.png">
   <img align="center" alt="security" height="30" width="30" src="icons/security.png">
   <img align="center" alt="swagger" height="30" width="30" src="icons/swagger.png">
+   <img align="center" alt="TravisCI" height="30" width="40" src="icons/Apache_Tomcat_logo.svg.png"/>
+
 
   </br>
   </br
