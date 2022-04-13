@@ -23,20 +23,9 @@ aplicativos RESTful.
   <img align="center" alt="TravisCI" height="30" width="30" src="icons/travis.png"/>
 </div>
   <br>
-  <img align="center" alt="ewe-VScode" height="40" width="40" src="icons/Tux.png">
- 
-  
+  <img align="center" alt="ewe-VScode" height="36" width="30" src="icons/Tux.png">
   </br>
-  </br>
-  </br>
- 
- 
- 
- 
- 
- 
- 
- 
+  </br
  <img alt="GIF" src="/programador.gif" width="700"/>
  
  <div>
