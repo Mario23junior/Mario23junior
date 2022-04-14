@@ -30,10 +30,10 @@ aplicativos RESTful.
   <img align="center" alt="swagger" height="30" width="30"  hspace="10" src="icons/swagger.png"/>
   <img align="center" alt="TravisCI" height="30" width="40"  hspace="10" src="icons/Apache_Tomcat_logo.svg.png"/>
  
-  </br>
-  </br
- <img alt="GIF" src="/programador.gif" width="700"/>
- 
+  
+ <img alt="GIF"  src="/programador.gif" width="700">
+
+  
  <div>
   <a href="https://github.com/Mario23junior">
   <img height="217em" src="https://github-readme-stats.vercel.app/api?username=Mario23junior&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
