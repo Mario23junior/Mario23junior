@@ -29,6 +29,8 @@ aplicativos RESTful.
   <img align="center" alt="security" height="30" width="30"  hspace="10" src="icons/security.png"/>
   <img align="center" alt="swagger" height="30" width="30"  hspace="10" src="icons/swagger.png"/>
   <img align="center" alt="TravisCI" height="30" width="40"  hspace="10" src="icons/Apache_Tomcat_logo.svg.png"/>
+  <img align="center" alt="rabbitmq" height="30" width="40" hspace="10" hspace="10" src="icons/rabbitmq.svg">
+
  
   
  <img alt="GIF"  src="/programador.gif" width="700">
