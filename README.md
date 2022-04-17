@@ -17,6 +17,7 @@ aplicativos RESTful.
   <img align="center" alt="eclipse" height="30" width="40" hspace="10" src="icons/eclipse-11.svg">
   <img align="center" alt="maven" height="30" width="40"  shspace="10" src="icons/maven.png">
   <img align="center" alt="hibernate" height="30" width="40" hspace="10" hspace="10" src="icons/hibernate.svg">
+  <img align="center" alt="junit" height="50" width="50" hspace="10" src="icons/junit.png">
   <img align="center" alt="java" height="45" width="49" hspace="10" src="icons/java.png"/>
   <img align="center" alt="linux-mint" height="30" width="30" hspace="10" src="icons/linux-mint.png"/>
   <img align="center" alt="spring-boot" height="30" width="30" hspace="10" src="icons/spring-boot.png"/>
