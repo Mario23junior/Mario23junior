@@ -28,10 +28,10 @@ aplicativos RESTful.
   <img align="center" alt="postgresql-logo" height="60" width="50" hspace="10" src="icons/postgresql-logo.png"/>
   <img align="center" alt="postman" height="30" width="30"  hspace="10" src="icons/postman.png"/>
   <img align="center" alt="security" height="30" width="30"  hspace="10" src="icons/security.png"/>
-  <img align="center" alt="swagger" height="30" width="30"  hspace="10" src="icons/swagger.png"/>
+   <img align="center" alt="swagger" height="30" width="30"  hspace="10" src="icons/swagger.png"/>
   <img align="center" alt="TravisCI" height="30" width="40"  hspace="10" src="icons/Apache_Tomcat_logo.svg.png"/>
   <img align="center" alt="Docker" height="30" width="40"  hspace="10" src="icons/docker.png"/>
-  <img align="center" alt="Quarkus" height="40" width="40" hspace="10" src="icons/quarkus.png">
+  <img align="center" alt="Quarkus" height="40" width="38" hspace="10" src="icons/quarkus.png">
 
 
  
