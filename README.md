@@ -4,7 +4,7 @@
 <h2><img src="icon.gif" width="60">Olá, sou Mário júnior</h2>
  
 <img src="base-icon.gif" width="50"/>
-Sou facinado pelo desenvolvimento de sistemas em Java, JSP, JPA, Hibernate, MySQL
+Sou fascinado pelo desenvolvimento de sistemas em Java, JSP, JPA, Hibernate, MySQL
 e Spring Framework são umas das gamas de funcionalidade que utilizo em seu desenvolvimento com algumas realização de dimensionamento de codificação de
 aplicativos RESTful.
 
